@@ -1,7 +1,7 @@
 # SCT_WD_1
 A clean, modern, and responsive landing page built with HTML, CSS, and JavaScript.
 
-#Features
+# Features
 
 Fixed Navigation Bar: Stays visible at the top while scrolling.
 
